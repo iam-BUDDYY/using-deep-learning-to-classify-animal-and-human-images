@@ -1,6 +1,4 @@
-config==0.5.1
-dataset==1.6.2
-model==0.6.0
 torch==2.8.0a0+gitunknown
 torch==2.9.1
 torchvision==0.24.1
+tqdm==4.67.1
