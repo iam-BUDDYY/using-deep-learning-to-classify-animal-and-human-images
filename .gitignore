@@ -1,3 +1,6 @@
 *.o
 *.env
+*.pt
 venv/
+dataset/
+reference.pdf
