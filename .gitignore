@@ -1,6 +1,9 @@
 *.o
 *.env
 *.pt
+
+reference.pdf
+
 venv/
 dataset/
-reference.pdf
+runs/
