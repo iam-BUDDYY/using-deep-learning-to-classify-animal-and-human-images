@@ -3,6 +3,8 @@
 *.pt
 
 reference.pdf
+test.py
+"PROJECT REPORT.pdf"
 
 venv/
 dataset/
