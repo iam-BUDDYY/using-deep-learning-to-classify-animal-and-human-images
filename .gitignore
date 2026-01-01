@@ -3,9 +3,11 @@
 *.pt
 
 reference.pdf
-test.py
 PROJECT\ REPORT.pdf
+test.py
+script.py
 
 venv/
 dataset/
+dataset_zip/
 runs/
