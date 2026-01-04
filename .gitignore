@@ -6,9 +6,9 @@ reference.pdf
 PROJECT\ REPORT.pdf
 test.py
 script.py
-test_missing_dataset.py
 
-venv/
+.venv/
 dataset/
 dataset_zip/
+reference/
 runs/
