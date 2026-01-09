@@ -1,11 +1,10 @@
 *.o
 *.env
 *.pt
+*.py
 
 reference.pdf
 PROJECT\ REPORT.pdf
-test.py
-script.py
 
 .venv/
 dataset/
