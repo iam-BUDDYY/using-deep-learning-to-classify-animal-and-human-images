@@ -3,8 +3,6 @@
 *.pt
 *.py
 
-reference.pdf
-PROJECT\ REPORT.pdf
 note.md
 
 .venv/
