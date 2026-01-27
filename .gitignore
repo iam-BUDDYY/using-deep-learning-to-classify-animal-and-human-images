@@ -1,9 +1,6 @@
 *.o
 *.env
 *.pt
-*.py
-
-note.md
 
 .venv/
 dataset/
