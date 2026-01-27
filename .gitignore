@@ -2,6 +2,7 @@
 *.env
 *.pt
 
+.ipynb_checkpoints/
 .venv/
 dataset/
 dataset_zip/
